@@ -25,7 +25,7 @@ Phishing attacks are a common cybersecurity threat where attackers trick users u
 5. **Deployment** – Create a Streamlit-based web interface for real-time prediction
 
 ---
-
+s
 ## 🧠 Machine Learning Models Used
 
 | Model               | Accuracy |
@@ -38,3 +38,4 @@ Phishing attacks are a common cybersecurity threat where attackers trick users u
 
 ## 📁 Project Structure
 
+<pre><code> malicious-url-detector/ │ ├── API.py # Prediction logic using ML model ├── Url_Features.py # Feature extraction functions for URLs ├── Feature_Extractor.py # Combines feature functions ├── Main.py (or app.py) # Streamlit web app interface ├── models/ │ └── Malicious_URL_Prediction.h5 # Trained deep learning model ├── requirements.txt # Python dependencies └── README.md # Project documentation (this file) </code></pre>
