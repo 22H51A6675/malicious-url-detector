@@ -38,4 +38,12 @@ s
 
 ## 📁 Project Structure
 
-<pre><code> malicious-url-detector/ │ ├── API.py # Prediction logic using ML model ├── Url_Features.py # Feature extraction functions for URLs ├── Feature_Extractor.py # Combines feature functions ├── Main.py (or app.py) # Streamlit web app interface ├── models/ │ └── Malicious_URL_Prediction.h5 # Trained deep learning model ├── requirements.txt # Python dependencies └── README.md # Project documentation (this file) </code></pre>
+<pre><code> malicious-url-detector/
+│
+├── API.py # Prediction logic
+├── Url_Features.py # Functions to extract features from URL
+├── Feature_Extractor.py # Assembles features from raw URL
+├── Malicious_URL_Prediction.h5 # Trained deep learning model
+├── Main.py or app.py # Streamlit user interface
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies</code></pre>
