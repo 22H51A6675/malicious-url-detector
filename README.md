@@ -1,4 +1,4 @@
-# 🔐 SafeLink Analyzer - Phishing URL Detection using AI & Machine Learning
+# 🔐 Malicious URL Detection
 
 SafeLink Analyzer is an AI-powered web-based tool designed to detect malicious and phishing URLs with high accuracy. This project combines machine learning models with an interactive Streamlit interface, allowing users to analyze links in real-time while offering features such as PDF report generation, screen sharing, voice and screen recording, and UI customization.
 
