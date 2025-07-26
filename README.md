@@ -1,6 +1,6 @@
 # 🔐 Malicious URL Detection
 
-SafeLink Analyzer is an AI-powered web-based tool designed to detect malicious and phishing URLs with high accuracy. This project combines machine learning models with an interactive Streamlit interface, allowing users to analyze links in real-time while offering features such as PDF report generation, screen sharing, voice and screen recording, and UI customization.
+ A real-time malicious URL detection system built using Deep Learning (MLP) and Streamlit. This project analyzes structural and lexical features of URLs to predict whether they are safe or malicious, helping protect users from phishing attacks and online threats. Includes a trained model, feature extractor, API logic, and a user-friendly web interface.
 
 ---
 
