@@ -54,8 +54,8 @@ SafeLink Analyzer is an AI-powered web-based tool designed to detect malicious a
 
 ```bash
 # Clone the repository
-git clone https://github.com/GunjalaSiddartha/SafeLink-Analyzer.git
-cd SafeLink-Analyzer
+git clone https://github.com//22H51A6675/malicious-url-detector.git
+cd malicious-url-detector
 
 # Install dependencies
 pip install -r requirements.txt
