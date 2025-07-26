@@ -45,7 +45,7 @@ SafeLink Analyzer is an AI-powered web-based tool designed to detect malicious a
 
 | Prediction Page | PDF Report | Theme Customization | Screen Sharing |
 |------------------|------------|----------------------| ----------------------|
-| ![1](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/64e21b9aee55ed5cd50f3eab8800881c4a1308ca/output_detector.png) | ![2](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/64e21b9aee55ed5cd50f3eab8800881c4a1308ca/features_save_as_pdf.png) | ![3](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/64e21b9aee55ed5cd50f3eab8800881c4a1308ca/features_theme.png) | ![3](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/07671158c9b1b95d60b41d6d612d4c3f8a0a4797/ferures_shared_Screen.png) |
+| ![1](https://github.com/22H51A6675/malicious-url-detector/blob/f1fd4c29e5dec1fe15e17c9a4e5fca141915fd8b/Interface.png) | ![2](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/64e21b9aee55ed5cd50f3eab8800881c4a1308ca/features_save_as_pdf.png) | ![3](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/64e21b9aee55ed5cd50f3eab8800881c4a1308ca/features_theme.png) | ![3](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/07671158c9b1b95d60b41d6d612d4c3f8a0a4797/ferures_shared_Screen.png) |
 
 
 ---
