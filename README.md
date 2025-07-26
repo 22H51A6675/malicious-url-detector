@@ -45,7 +45,7 @@ SafeLink Analyzer is an AI-powered web-based tool designed to detect malicious a
 
 | Interface Page | PDF Report | Theme Customization | Output |
 |------------------|------------|----------------------| ----------------------|
-| ![1](https://github.com/22H51A6675/malicious-url-detector/blob/f1fd4c29e5dec1fe15e17c9a4e5fca141915fd8b/Interface.png) | ![2](https://github.com/22H51A6675/malicious-url-detector/blob/febfde5704f56e008f88ed235654d77a8a0d305d/save_as_pdf.png) | ![3](https://github.com/GunjalaSiddartha/SafeLink-Analyzer/blob/64e21b9aee55ed5cd50f3eab8800881c4a1308ca/features_theme.png) | ![3](https://github.com/22H51A6675/malicious-url-detector/blob/b4682a18c4e214684e32010449df7f921448edb8/output.png) |
+| ![1](https://github.com/22H51A6675/malicious-url-detector/blob/f1fd4c29e5dec1fe15e17c9a4e5fca141915fd8b/Interface.png) | ![2](https://github.com/22H51A6675/malicious-url-detector/blob/febfde5704f56e008f88ed235654d77a8a0d305d/save_as_pdf.png) | ![3](https://github.com/22H51A6675/malicious-url-detector/blob/be648c21d6065b96a5b5d6a7d4a371a7f86576b0/theme.png) | ![3](https://github.com/22H51A6675/malicious-url-detector/blob/b4682a18c4e214684e32010449df7f921448edb8/output.png) |
 
 
 ---
